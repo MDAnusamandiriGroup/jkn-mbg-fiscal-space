@@ -188,12 +188,6 @@ pip install -r requirements.txt
 
 The complete release should reproduce all reported tables and figures from the reconstructed monthly input data using a fixed random seed.
 
-Before public release, confirm that:
-
-- every manuscript number matches the repository output;
-- no obsolete 300-dpi figures remain;
-- no identifying metadata is exposed if the manuscript is under double-anonymous review; and
-- the archived release corresponds to the submitted manuscript version.
 
 ## Data and code availability statement
 
